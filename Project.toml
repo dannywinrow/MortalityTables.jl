@@ -4,6 +4,9 @@ authors = ["Alec Loudenback <alecloudenback@gmail.com>"]
 version = "2.4.0"
 
 [deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+EzXML = "8f5d6c58-4d21-5cfd-889c-e3ad7ee6a615"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
 Memoize = "c03570c3-d221-55d1-a50c-7939bbd78826"
 OffsetArrays = "6fe1bfb0-de20-5000-8ca7-80f57d26f881"
 Parsers = "69de0a69-1ddd-5017-9359-2bf0b02dc9f0"
@@ -12,6 +15,7 @@ QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
 Requires = "ae029012-a4dd-5104-9daa-d747884805df"
 StringDistances = "88034a9c-02f8-509d-84a9-84ec65e18404"
 UnPack = "3a884ed6-31ef-47d7-9d2a-63182c4928ed"
+XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
 XMLDict = "228000da-037f-5747-90a9-8195ccbf91a5"
 
 [compat]
